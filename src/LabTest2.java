@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Formatter;
 import java.util.StringTokenizer;
 
-public class LabTest {
+public class LabTest { 
 
     public static void main(String[] args) throws IOException {
         Formatter formatter;
